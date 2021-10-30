@@ -26,14 +26,14 @@ I have I have contributed as an AI product developer (R&D unit) and been AI cons
 <!-- Add link to the sections -->
 <!-- [Experience](#experience) <br> -->
 <!-- [Education](#education) <br> -->
-[Projects](#projects) <br>
+<!-- [Link to my Projects](#projects) <br> -->
 <!-- [Featured](#featured) <br> -->
 
 <!-- ABOUT Section Ends -->
 
-<!-- EXPERIENCE Section Starts -->
-### EXPERIENCE
-<!-- Add your details -->
+<!-- EXPERIENCE Section Starts 
+### EXPERIENCE -->
+<!-- Add your details 
 ##### BOSTON CONSULTING GROUP
 DATA ANALYST<br>
 June-2019 to Present: 1 year 10 Months
@@ -43,15 +43,15 @@ UNIT: BCG GAMMA
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
-##### ALL RISE
+##### ALL RISE -->
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
-### EDUCATION
+<!-- ### EDUCATION -->
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+<!-- ##### LNCT Bhopal -->
+<!-- Engineering Graduate 2010-14, First Division -->
 
 <!-- EDUCATION Section Ends -->
 
