@@ -14,20 +14,20 @@
 
 ![alt text](https://github.com/jwtc123/JustinWong/blob/main/980x.jpg?raw=true)
 
-This is not me if you are wondering.
-I just happen to like this pic a lot!
+(This is not me if you are wondering.
+I just happen to like this pic a lot!)
 
 <!-- Add your details -->
 
-I am __Justin Wong__, a recent Business & Data analytics graduate from the RISE by DigitalBCG Academy by Bostone Consulting Group. 
-I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Justin Wong__, a recent Business & Data analytics graduate from the RISE by DigitalBCG Academy by Boston Consulting Group in Singapore. 
+I have I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
 
 
 <!-- Add link to the sections -->
---[Experience](#experience) <br>
---[Education](#education) <br>
+<!-- [Experience](#experience) <br> -->
+<!-- [Education](#education) <br> -->
 [Projects](#projects) <br>
---[Featured](#featured) <br> 
+<!-- [Featured](#featured) <br> -->
 
 <!-- ABOUT Section Ends -->
 
