@@ -20,8 +20,9 @@ I just happen to like this pic a lot!)
 <!-- Add your details -->
 
 I am __Justin Wong__, a recent Business & Data analytics graduate from the RISE by DigitalBCG Academy by Boston Consulting Group in Singapore. 
-I have I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I have domain knowledge in trading Bond Futures, and more recently Cryptocurrencies. Even earlier in my career, I worked on hedge fund accounts, and private banking corporate trust accounts. I am now looking to pivot into the realm of data science to make the world a better place one small step at a time.
 
+Take a look at my recent projects...
 
 <!-- Add link to the sections -->
 <!-- [Experience](#experience) <br> -->
@@ -61,6 +62,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
+[My pet project](#pet-based-projects) <br>
 
 <!-- Add your details -->
 
