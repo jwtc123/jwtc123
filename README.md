@@ -19,8 +19,7 @@ I just happen to like this pic a lot!)
 
 <!-- Add your details -->
 
-I am __Justin Wong__, a recent Business & Data analytics graduate from the RISE by DigitalBCG Academy by Boston Consulting Group in Singapore. 
-I have domain knowledge in trading Bond Futures, and more recently Cryptocurrencies. Even earlier in my career, I worked on hedge fund accounts, and private banking corporate trust accounts. I am now looking to pivot into the realm of data science to make the world a better place one small step at a time.
+I am __Justin Wong__, a recent Business & Data analytics graduate from the RISE by DigitalBCG Academy by Boston Consulting Group, taught by global BCG consultants and GAMMA data scientists. Also, I have domain knowledge in trading Bond Futures and in the recent year, Cryptocurrencies. Even earlier in my career, I worked on hedge fund accounts, and private banking corporate trust accounts. I am now looking to pivot into the realm of data science to make the world a better place one small step at a time.
 
 Take a look at my recent projects...
 
@@ -62,7 +61,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
-[My pet project](#pet-based-projects) <br>
+[My pet project](#pet-project) <br>
 
 <!-- Add your details -->
 
@@ -80,15 +79,25 @@ Regression is a supervised learning technique which helps in finding the correla
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
+#### Pet projects
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
+
+Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
+
+[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+
 <!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+Bsc. Business Administration (Finance) from University of San Francisco
+Merit in Business & Data Analytics from RISE by Digital BCG Academy
 
 ##### Achievements
-Star performer of the year at Accenture
+Top2 in RISE batch - UI/UX, Human-Centered Design project
+Top2 in RISE batch - Machine Learning Modelling project
+Distintion in Capstone project - Singapore Sentosa Island Bus-Optimization model
 <!-- FEATURED Section Ends -->
 
