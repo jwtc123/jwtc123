@@ -80,7 +80,7 @@ Regression is a supervised learning technique which helps in finding the correla
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
 #### Pet projects
-![alt text](https://raw.githubusercontent.com/jwtc123/BTC vs Funding Rate analysis.jpg)
+![alt text](https://raw.githubusercontent.com/jwtc123/jwtc123/BTC vs Funding Rate analysis.jpg)
 
 EDA visual study on possible effects of trend changes in Bitcoin price given changes in Bybit's Funding Rate.
 
