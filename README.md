@@ -19,7 +19,7 @@ I just happen to like this pic a lot!)
 
 <!-- Add your details -->
 
-I am __Justin Wong__, a recent Business & Data analytics graduate from the RISE by DigitalBCG Academy by Boston Consulting Group, taught by global BCG consultants and GAMMA data scientists. Also, I have domain knowledge in trading Bond Futures and in the recent year, Cryptocurrencies. Even earlier in my career, I worked on hedge fund accounts, and private banking corporate trust accounts. I am now looking to pivot into the realm of data science to make the world a better place one small step at a time.
+I am __Justin Wong__, a recent Business & Data analytics graduate from the RISE by DigitalBCG Academy by Boston Consulting Group, taught by global BCG consultants and GAMMA data scientists. Also, I have domain knowledge in Bond Derivatives Trading and in the recent year, Cryptocurrencies. Even earlier in my career, I worked on hedge fund accounts, and private banking corporate trust accounts. I am now looking to pivot into the realm of data science to make the world a better place one small step at a time.
 
 Take a look at my recent projects...
 
@@ -84,35 +84,41 @@ Below are parts of the project presentation slides: <br>
 Detailed Project Workflow:
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_project_workflow.jpg) <br>
 <br>
-I drew up this conceptual blueprint while brainstorming for a measure to determine bus overcrowding. Don't mind the incorrect codes as this was drawn up right before pandas, statistics and machine learning was taught in the course. <br>
+I drew up this conceptual blueprint while brainstorming for a measure to determine bus overcrowding - Bus Passenger Count. Don't mind the incorrect codes as this was drawn up right before pandas, statistics and machine learning were taught in the course. <br>
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_Bus_concept_blueprint.jpg) <br>
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_why_BPC.jpg) <br>
 Brainstorming the above solution steps was like a mini-project in itself and coding these 4 steps was challenging really, especially when I didn't have any programming background before I started this course. <br>
 <br>
-Next, getting ready choosing features to be thrown into the Machine Learning Model. Note that I have only included the combined feature heatmap pic for ALL bus routes for illustration purposes. Each route has such a customized correlation heatmap as part of the EDA.
+Next, getting ready features chosen for inputting into the Machine Learning Model. Note that I have only included the combined feature heatmap pic for ALL bus routes for illustration purposes. Each route has such a customized correlation heatmap as part of the EDA.
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_heatmap.jpg) <br>
 <br>
 
-Over here below is the Time Series SARIMAX model prediction accuracy table and charts. Each of the 3 Bus Routes are separately modeled with the final selected features. <br>
-![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_ML_performance.jpg) <br>
-<br>
 
-Unfortunately, the notebooks for all this code now belongs to Sentosa Development Corporation. The codes can't be shared without their consent.
+![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_ML_performance.jpg) <br>
+Above is the Time Series SARIMAX model prediction accuracy table and charts. Each of the 3 Bus Routes are separately modeled with the final selected features. <br>
+<br>
+With a pretty accurate SARIMAX model, predictions could now be made. The dataset given to us by Sentosa was from Jan 2021 to Mar 2021. April's first week predictions are as shown below: <br>
+![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_prediction.jpg) <br>
+<br>
+![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_MVP.jpg) <br>
+The above is the MVP interface for illustrative purposes only, which also is the final output of this project. Once developed, it can be integrated with Sentosa Development Corporation's bus operations.
+
+Unfortunately, the notebooks for all the code in this project belongs to Sentosa Development Corporation and can't be shared without their consent so there won't be a codebase link here. However, I still can remember some of the codes and will be happy to share from my memory.
 <!-- [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification) -->
 
-#### ML project
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
+#### ML project (Work-in-progress)
+![alt text]()
 
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
-#### HCD project
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
+[Click here to view codebase]()
 
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
+#### HCD project (Work-in-progress)
+![alt text]()
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+
+
+[Click here to view codebase]()
 
 <!-- PROJECTS Section Ends -->
 
