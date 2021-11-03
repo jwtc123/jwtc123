@@ -59,16 +59,19 @@ Working on various analytics based cases that facilitates clients for next-gener
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
-[My Pet Project](#pet-project) <br>
+[My Pet Project](#Pet-projects) <br>
+[Capstone project - Singapore Sentosa Island Bus-Optimization model (Time Series)](#sentosa-projects) <br>
+[Machine Learning Modelling project](#ML-projects) <br>
+[UI/UX, Human-Centered Design project](#UI/UX-projects) <br>
 
 <!-- Add your details -->
 
-#### Classification based projects
+#### Sentosa projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
+Sentosa is one of Asia’s leading leisure destinations and Singapore’s premier island resort getaway. This 500-hectare island resort is home to an exciting array of themed attractions, award-winning spa retreats, lush rainforests, golden sandy beaches, resort accommodations, world-renowned golf courses, a deep-water yachting marina and luxurious residences. The Resorts World Sentosa - integrated resort and the Universal Studios theme park are also on this island.
+
+
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
