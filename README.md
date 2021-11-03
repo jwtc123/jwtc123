@@ -77,9 +77,18 @@ A visual EDA study on possible trend change observed in Bitcoin price given chan
 #### Sentosa project
 Sentosa is one of Asia’s leading leisure destinations and Singapore’s premier island resort getaway. This 500-hectare island resort is home to an exciting array of themed attractions, award-winning spa retreats, lush rainforests, golden sandy beaches, resort accommodations, world-renowned golf courses, a deep-water yachting marina and luxurious residences. The Resorts World Sentosa and the Universal Studios theme park are also on this island. <br>
 
-![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_problem_approach_solution.jpg)
-![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_project_workflow.jpg)
-![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_Bus_concept_blueprint.jpg)
+Below are parts of the project presentation slides: <br>
+<br>
+![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_problem_approach_solution.jpg) <br>
+<br>
+Detailed Project Workflow:
+![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_project_workflow.jpg) <br>
+<br>
+I drew up this conceptual blueprint while brainstorming for a measure to determine bus overcrowding. Don't mind the incorrect codes as this was drawn up right before pandas, statistics and machine learning was taught in the course. <br>
+![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_Bus_concept_blueprint.jpg) <br>
+
+Over here below is the Time Series SARIMAX model prediction accuracy table and charts. Each of the 3 Bus Routes are separately modeled with the final selected features.
+![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_ML_performance.jpg)
 
 
 Unfortunately, the notebooks for all this code now belongs to Sentosa Development Corporation. The codes can't be shared without their consent.
