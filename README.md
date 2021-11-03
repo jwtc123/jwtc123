@@ -63,7 +63,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 [My Pet Project](#Pet-project) <br>
 [Capstone project - Singapore Sentosa Island Bus-Optimization model (Time Series)](#sentosa-project) <br>
 [Machine Learning Modelling project](#ML-project) <br>
-[UI/UX, Human-Centered Design project](#UI/UX-project) <br>
+[Human-Centered Design project](#HCD-project) <br>
 
 <!-- Add your details -->
 
@@ -88,7 +88,7 @@ Regression is a supervised learning technique which helps in finding the correla
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
-#### UI/UX project
+#### HCD project
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
