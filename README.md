@@ -86,10 +86,16 @@ Detailed Project Workflow:
 <br>
 I drew up this conceptual blueprint while brainstorming for a measure to determine bus overcrowding. Don't mind the incorrect codes as this was drawn up right before pandas, statistics and machine learning was taught in the course. <br>
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_Bus_concept_blueprint.jpg) <br>
+![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_why_BPC.jpg) <br>
+Brainstorming the above solution steps was like a mini-project in itself and coding these 4 steps was challenging really, especially when I didn't have any programming background before I started this course. <br>
+<br>
+Next, getting ready choosing features to be thrown into the Machine Learning Model. Note that I have only included the combined feature heatmap pic for ALL bus routes for illustration purposes. Each route has such a customized correlation heatmap as part of the EDA.
+![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_heatmap.jpg) <br>
+<br>
 
-Over here below is the Time Series SARIMAX model prediction accuracy table and charts. Each of the 3 Bus Routes are separately modeled with the final selected features.
-![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_ML_performance.jpg)
-
+Over here below is the Time Series SARIMAX model prediction accuracy table and charts. Each of the 3 Bus Routes are separately modeled with the final selected features. <br>
+![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_ML_performance.jpg) <br>
+<br>
 
 Unfortunately, the notebooks for all this code now belongs to Sentosa Development Corporation. The codes can't be shared without their consent.
 <!-- [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification) -->
