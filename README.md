@@ -92,12 +92,12 @@ EDA visual study on possible effects of trend changes in Bitcoin price given cha
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Bsc. Business Administration (Finance) from University of San Francisco
-Merit in Business & Data Analytics from RISE by Digital BCG Academy
+Bsc. Business Administration (Finance) from University of San Francisco.
+Merit in Business & Data Analytics from RISE by Digital BCG Academy.
 
 ##### Achievements
-Top2 in RISE batch - UI/UX, Human-Centered Design project
-Top2 in RISE batch - Machine Learning Modelling project
-Distintion in Capstone project - Singapore Sentosa Island Bus-Optimization model
+Top2 in RISE batch - UI/UX, Human-Centered Design project.
+Top2 in RISE batch - Machine Learning Modelling project.
+Distintion in Capstone project - Singapore Sentosa Island Bus-Optimization model.
 <!-- FEATURED Section Ends -->
 
