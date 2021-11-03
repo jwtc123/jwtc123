@@ -80,9 +80,9 @@ Regression is a supervised learning technique which helps in finding the correla
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
 #### Pet projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
+![alt text](https://raw.githubusercontent.com/jwtc123/jwtc123/main/images/BTC vs Funding Rate analysis.jpg)
 
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
+EDA visual study on possible effects of trend changes in Bitcoin price given changes in Bybit's Funding Rate.
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
