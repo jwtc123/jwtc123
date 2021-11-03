@@ -61,7 +61,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
-[My pet project](#pet-project) <br>
+[My Pet Project](#pet-project) <br>
 
 <!-- Add your details -->
 
@@ -79,10 +79,11 @@ Regression is a supervised learning technique which helps in finding the correla
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
-#### Pet projects
-![alt text](https://github.com/jwtc123/Demo/blob/main/images/BTC_vs_Funding_Rate_analysis.jpg)
+#### My Pet Projects
+![alt text](https://github.com/jwtc123/JustinWong/blob/main/images/BTC_vs_Funding_Rate_analysis.jpg)
 
-EDA visual study on possible effects of trend changes in Bitcoin price given changes in Bybit's Funding Rate.
+EDA visual study on possible trend change observed in Bitcoin price given changes in Bybit's Funding Rate. <br>
+
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
@@ -93,11 +94,11 @@ EDA visual study on possible effects of trend changes in Bitcoin price given cha
 <!-- Add your details -->
 ##### Certifications
 Bsc. Business Administration (Finance) from University of San Francisco <br>
-Merit in Business & Data Analytics from RISE by Digital BCG Academy <br>
+Cert with Merit in Business & Data Analytics from RISE by Digital BCG Academy <br>
 
 ##### Achievements
 Top2 in RISE batch - UI/UX, Human-Centered Design project <br>
 Top2 in RISE batch - Machine Learning Modelling project <br>
-Distintion in Capstone project - Singapore Sentosa Island Bus-Optimization model <br>
+Distintion awarded: Capstone project - Singapore Sentosa Island Bus-Optimization model <br>
 <!-- FEATURED Section Ends -->
 
