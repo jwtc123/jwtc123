@@ -66,12 +66,19 @@ Working on various analytics based cases that facilitates clients for next-gener
 
 <!-- Add your details -->
 
+#### My Pet Projects
+![alt text](https://github.com/jwtc123/JustinWong/blob/main/images/BTC_vs_Funding_Rate_analysis.jpg)
+
+EDA visual study on possible trend change observed in Bitcoin price given changes in Bybit's Funding Rate. <br>
+
+
+[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+
 #### Sentosa projects
+
+Sentosa is one of Asia’s leading leisure destinations and Singapore’s premier island resort getaway. This 500-hectare island resort is home to an exciting array of themed attractions, award-winning spa retreats, lush rainforests, golden sandy beaches, resort accommodations, world-renowned golf courses, a deep-water yachting marina and luxurious residences. The Resorts World Sentosa and the Universal Studios theme park are also on this island. <br>
+
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
-
-Sentosa is one of Asia’s leading leisure destinations and Singapore’s premier island resort getaway. This 500-hectare island resort is home to an exciting array of themed attractions, award-winning spa retreats, lush rainforests, golden sandy beaches, resort accommodations, world-renowned golf courses, a deep-water yachting marina and luxurious residences. The Resorts World Sentosa - integrated resort and the Universal Studios theme park are also on this island.
-
-
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
@@ -82,13 +89,7 @@ Regression is a supervised learning technique which helps in finding the correla
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
-#### My Pet Projects
-![alt text](https://github.com/jwtc123/JustinWong/blob/main/images/BTC_vs_Funding_Rate_analysis.jpg)
 
-EDA visual study on possible trend change observed in Bitcoin price given changes in Bybit's Funding Rate. <br>
-
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
 <!-- PROJECTS Section Ends -->
 
