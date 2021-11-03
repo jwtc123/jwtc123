@@ -68,7 +68,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- Add your details -->
 
 #### Pet project
-![alt text](https://github.com/jwtc123/JustinWong/blob/main/images/BTC_vs_Funding_Rate_analysis.jpg)
+![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/BTC_vs_Funding_Rate_analysis.jpg)
 
 A visual EDA study on possible trend change observed in Bitcoin price given changes in Bybit's Funding Rate. The Bybit 8-hourly dataset (Aug 2020 - Oct 2021) was merged with BTC hourly dataset (Oct 2020 - Oct 2021), and analysis was done on data in date range 1st Oct 2020 to 28th Oct 2021. Visual Prediction: Mini uptrend in BTC price in November (No Machine Learning Models used here) <br>
 
@@ -77,9 +77,13 @@ A visual EDA study on possible trend change observed in Bitcoin price given chan
 #### Sentosa project
 Sentosa is one of Asia’s leading leisure destinations and Singapore’s premier island resort getaway. This 500-hectare island resort is home to an exciting array of themed attractions, award-winning spa retreats, lush rainforests, golden sandy beaches, resort accommodations, world-renowned golf courses, a deep-water yachting marina and luxurious residences. The Resorts World Sentosa and the Universal Studios theme park are also on this island. <br>
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
+![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_problem_approach_solution.jpg)
+![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_project_workflow.jpg)
+![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_Bus_concept_blueprint.jpg)
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
+
+Unfortunately, the notebooks for all this code now belongs to Sentosa Development Corporation. The codes can't be shared without their consent.
+<!-- [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification) -->
 
 #### ML project
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
