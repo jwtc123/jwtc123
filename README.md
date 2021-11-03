@@ -56,6 +56,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
+
 ### PROJECTS
 <!-- Add your details -->
 
@@ -70,7 +71,6 @@ Working on various analytics based cases that facilitates clients for next-gener
 ![alt text](https://github.com/jwtc123/JustinWong/blob/main/images/BTC_vs_Funding_Rate_analysis.jpg)
 
 EDA visual study on possible trend change observed in Bitcoin price given changes in Bybit's Funding Rate. <br>
-
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
