@@ -60,36 +60,40 @@ Working on various analytics based cases that facilitates clients for next-gener
 ### PROJECTS
 <!-- Add your details -->
 
-[My Pet Project](#Pet-projects) <br>
-[Capstone project - Singapore Sentosa Island Bus-Optimization model (Time Series)](#sentosa-projects) <br>
-[Machine Learning Modelling project](#ML-projects) <br>
-[UI/UX, Human-Centered Design project](#UI/UX-projects) <br>
+[My Pet Project](#Pet-project) <br>
+[Capstone project - Singapore Sentosa Island Bus-Optimization model (Time Series)](#sentosa-project) <br>
+[Machine Learning Modelling project](#ML-project) <br>
+[UI/UX, Human-Centered Design project](#UI/UX-project) <br>
 
 <!-- Add your details -->
 
-#### My Pet Projects
+#### Pet project
 ![alt text](https://github.com/jwtc123/JustinWong/blob/main/images/BTC_vs_Funding_Rate_analysis.jpg)
 
 EDA visual study on possible trend change observed in Bitcoin price given changes in Bybit's Funding Rate. <br>
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
-#### Sentosa projects
-
+#### Sentosa project
 Sentosa is one of Asia’s leading leisure destinations and Singapore’s premier island resort getaway. This 500-hectare island resort is home to an exciting array of themed attractions, award-winning spa retreats, lush rainforests, golden sandy beaches, resort accommodations, world-renowned golf courses, a deep-water yachting marina and luxurious residences. The Resorts World Sentosa and the Universal Studios theme park are also on this island. <br>
 
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
-#### Regression based projects
+#### ML project
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
+#### UI/UX project
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
 
+Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
+
+[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
 <!-- PROJECTS Section Ends -->
 
