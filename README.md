@@ -89,13 +89,13 @@ I drew up this conceptual blueprint while brainstorming for a measure to determi
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_why_BPC.jpg) <br>
 Brainstorming the above solution steps was like a mini-project in itself and coding these 4 steps was challenging really, especially when I didn't have any programming background before I started this course. <br>
 <br>
-Next, getting ready features chosen for inputting into the Machine Learning Model. Note that I have only included the combined feature heatmap pic for ALL bus routes for illustration purposes. Each route has such a customized correlation heatmap as part of the EDA.
+Next, getting ready the initial features chosen for inputting into the Machine Learning Model. Note that I have only included the combined feature heatmap pic for ALL bus routes for illustration purposes. Each route has such a customized correlation heatmap as part of the EDA. Features that have weak correlations ( < |0.08| ) to Bus Passenger Count were not thrown into the model.
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_heatmap.jpg) <br>
 <br>
 
 
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_ML_performance.jpg) <br>
-Above is the Time Series SARIMAX model prediction accuracy table and charts. Each of the 3 Bus Routes are separately modeled with the final selected features. <br>
+Above is the Time Series SARIMAX model prediction accuracy table and charts. An average R^2 score of 0.65 for accuracy was achieved, and BCG Gamma scientists - our trainers informed that the best possible theoretical R^2 score for this type of Time Series optimization model was in the region of '0.6 something'. Each of the 3 Bus Routes are separately modeled with their final selected features after many rounds of trial and error. The final set of features are not 100% same as the initial features chosen as the model is able to calculate weightages given to each feature. <br>
 <br>
 With a pretty accurate SARIMAX model, predictions could now be made. The dataset given to us by Sentosa was from Jan 2021 to Mar 2021. April's first week predictions are as shown below: <br>
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_prediction.jpg) <br>
