@@ -62,7 +62,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 
 [My Pet Project](#Pet-project) <br>
 [Capstone project - Singapore Sentosa Island Bus-Optimization model (Time Series)](#sentosa-project) <br>
-[Machine Learning Modelling project](#ML-project) <br>
+[Machine Learning Modelling project - Logistic Regression Classification & Random Forest Classification](#ML-project) <br>
 [Human-Centered Design project](#HCD-project) <br>
 
 <!-- Add your details -->
