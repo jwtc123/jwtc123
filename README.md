@@ -70,7 +70,8 @@ Working on various analytics based cases that facilitates clients for next-gener
 #### Pet project
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/BTC_vs_Funding_Rate_analysis.jpg)
 
-A visual EDA study on possible trend change observed in Bitcoin price given changes in Bybit's Funding Rate. The Bybit 8-hourly dataset (Aug 2020 - Oct 2021) was merged with BTC hourly dataset (Oct 2020 - Oct 2021), and analysis was done on data in date range 1st Oct 2020 to 28th Oct 2021. Visual Prediction: Mini uptrend in BTC price in November (No Machine Learning Models used here) <br>
+A visual EDA study on possible trend change observed in Bitcoin price given changes in Bybit's Funding Rate. The Bybit 8-hourly dataset (Aug 2020 - Oct 2021) was merged with BTC hourly dataset (Oct 2020 - Oct 2021), and analysis was done on data in date range 1st Oct 2020 to 28th Oct 2021. <br> 
+Visual Prediction: Mini uptrend in BTC price in November (No Machine Learning Models used here) <br>
 
 [Click here to view codebase](https://github.com/jwtc123/jwtc123/blob/main/BTC_vs_Bybit_fundingrate_Analysis.ipynb)
 
