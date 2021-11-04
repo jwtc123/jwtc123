@@ -60,10 +60,10 @@ Working on various analytics based cases that facilitates clients for next-gener
 ### PROJECTS
 <!-- Add your details -->
 
-[My Pet Project](#Pet-project) <br>
+[My Pet Project - Bitcoin Price EDA](#Pet-project) <br>
 [Capstone project - Singapore Sentosa Island Bus-Optimization model (Time Series)](#sentosa-project) <br>
 [Machine Learning Modelling project - Logistic Regression Classification & Random Forest Classification](#ML-project) <br>
-[Human-Centered Design project](#HCD-project) <br>
+[Human-Centered Design project - UI/UX Design](#HCD-project) <br>
 
 <!-- Add your details -->
 
