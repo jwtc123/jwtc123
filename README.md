@@ -28,6 +28,7 @@ Take a look at my recent projects...
 <!-- [Education](#education) <br> -->
 <!-- [Link to my Projects](#projects) <br> -->
 <!-- [Featured](#featured) <br> -->
+<!-- [Hobbies](#hobbies) <br> -->
 
 <!-- ABOUT Section Ends -->
 
@@ -138,7 +139,6 @@ Distintion awarded: Capstone project - Singapore Sentosa Island Bus-Optimization
 
 ## HOBBIES
 <!-- Add your details -->
-<br>
 ##### GO 囲碁 / Weiqi 围棋
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/hobbies_move78.jpg) <br>
 <br>
