@@ -142,9 +142,10 @@ Distintion awarded: Capstone project - Singapore Sentosa Island Bus-Optimization
 ##### GO 囲碁 / Weiqi 围棋
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/hobbies_move78.jpg) <br>
 <br>
-The famous move 78 in 2016 which caused AlphaGo to lose it's first and last time to a human player. If you are interested in the series of games between AlphaGo and Lee Seedol, I found this article which you can read up on: https://medium.com/@StephenMartindale/alphago-vs-lee-se-dol-game-four-a0604ce0241c <br>
+The infamous move 78 in 2016 which caused AlphaGo to lose it's first and last time to a human player. If you are interested in the series of games between AlphaGo and Lee Seedol, I found this article which you can read up on: https://medium.com/@StephenMartindale/alphago-vs-lee-se-dol-game-four-a0604ce0241c <br>
 <br>
-I picked up this game in 2015 and became serious about it in 2016 after seeing AlphaGo beat one of the strongest human professional players, getting my dan certification by the Singapore Weiqi Association in 2019. <br>
-To get strong in this game requires one to be able to zoom in and zoom out to have a macro-level view to plan, prioritize, evaluate, develop, trade, while being meticulous on the micro-level. It helps train one's skills like patience, timing, awareness, calmness-under-pressure, opportunity-recognition, observation, decision-making, creativity, efficiency, logic/math, critical thinking.<br>
+I picked up this game in 2014 and became serious about it in 2016 after seeing AlphaGo beat Lee Seedol - one of the strongest ever human professional GO player, getting my dan certification by the Singapore Weiqi Association in 2019. Seeing first hand Deepmind's AlphaGo (Reinforcement Machine Learning Model)'s almost perfect record and later AlphaZero's (Deep Neural Network Model) complete dominance over AlphaGo convinced me to get into the world of Machine Learning. <br>
+<br>
+To get strong in this game requires one to be able to zoom in and zoom out to have a macro-level view to plan, prioritize, evaluate, develop, trade, while being meticulous on the micro-level. It helps train one's skills like patience, timing, awareness, calmness-under-pressure, opportunity-recognition, observation, decision-making, creativity, efficiency, logic/math, critical thinking. <br>
 
-<!-- FEATURED Section Ends -->
+<!-- HOBBIES Section Ends -->
