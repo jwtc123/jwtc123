@@ -105,7 +105,6 @@ With a pretty accurate SARIMAX model, predictions could now be made. The dataset
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_MVP.jpg) <br>
 The above is the MVP interface for illustrative purposes only, which also is the final output of this project. Once developed, it can be integrated with Sentosa Development Corporation's bus operations.
 
-Unfortunately, the notebooks for all the code in this project belongs to Sentosa Development Corporation and can't be shared without their consent so there won't be a codebase link here. 
 <!-- [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification) -->
 
 #### ML project (Work-in-progress)
