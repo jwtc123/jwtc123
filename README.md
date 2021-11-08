@@ -60,6 +60,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 
 ### PROJECTS
 <!-- Add your details -->
+#### Project list
 
 [My Pet Project - Bitcoin Price EDA](#Pet-project) <br>
 [Capstone project - Singapore Sentosa Island Bus-Optimization model (Time Series)](#sentosa-project) <br>
@@ -72,9 +73,12 @@ Working on various analytics based cases that facilitates clients for next-gener
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/BTC_vs_Funding_Rate_analysis.jpg)
 
 A visual EDA study on possible trend change observed in Bitcoin price given changes in Bybit's Funding Rate. The Bybit 8-hourly dataset (Aug 2020 - Oct 2021) was merged with BTC hourly dataset (Oct 2020 - Oct 2021), and analysis was done on data in date range 1st Oct 2020 to 28th Oct 2021. <br> 
+<br>
 Visual Prediction: Mini uptrend in BTC price in November (No Machine Learning Models used here) <br>
-
+<br>
 [Click here to view codebase](https://github.com/jwtc123/jwtc123/blob/main/BTC_vs_Bybit_fundingrate_Analysis.ipynb)
+<br>
+[Back to Project list](#Project-list) <br>
 
 #### Sentosa project
 Sentosa is one of Asia’s leading leisure destinations and Singapore’s premier island resort getaway. This 500-hectare island resort is home to an exciting array of themed attractions, award-winning spa retreats, lush rainforests, golden sandy beaches, resort accommodations, world-renowned golf courses, a deep-water yachting marina and luxurious residences. The Resorts World Sentosa and the Universal Studios theme park are also on this island. <br>
@@ -106,6 +110,7 @@ With a pretty accurate SARIMAX model, predictions could now be made. The dataset
 The above is the MVP interface for illustrative purposes only, which also is the final output of this project. Once developed, it can be integrated with Sentosa Development Corporation's bus operations.
 
 <!-- [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification) -->
+[Back to Project list](#Project-list) <br>
 
 #### ML project (Work-in-progress)
 ![alt text]()
