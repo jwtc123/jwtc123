@@ -76,7 +76,7 @@ A visual EDA study on possible trend change observed in Bitcoin price given chan
 <br>
 Visual Prediction: Mini uptrend in BTC price in November (No Machine Learning Models used here) <br>
 <br>
-[Click here to view codebase](https://github.com/jwtc123/jwtc123/blob/main/BTC_vs_Bybit_fundingrate_Analysis.ipynb)
+[Click here to view codebase](https://github.com/jwtc123/jwtc123/blob/main/BTC_vs_Bybit_fundingrate_Analysis.ipynb) <br>
 <br>
 [Back to Project list](#Project-list) <br>
 
