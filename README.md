@@ -21,7 +21,8 @@ I just happen to like this pic a lot!)
 
 I am __Justin Wong__, a recent Business & Data analytics graduate from the RISE by DigitalBCG Academy by Boston Consulting Group, taught by global BCG consultants and GAMMA data scientists. Also, I have domain knowledge in Bond Derivatives Trading and in the recent year, Cryptocurrencies. Even earlier in my career, I worked on hedge fund accounts, and private banking corporate trust accounts. I am now looking to pivot into the realm of data science to make the world a better place one small step at a time.
 
-Take a look at my recent projects...
+I'm targeting to improve on SQL, learn XGBoost and Solidity. These are my targets for the next 3-6 months.
+In the mean time, take a look at my recent projects...
 
 <!-- Add link to the sections -->
 <!-- [Experience](#experience) <br> -->
