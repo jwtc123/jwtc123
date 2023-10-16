@@ -19,7 +19,8 @@
 
 I am __Justin Wong__, a 2021 Business & Data analytics graduate from the RISE by DigitalBCG Academy by Boston Consulting Group, taught by global BCG consultants and GAMMA data scientists. Also, I have domain knowledge in Bond Derivatives Trading and in the recent year, Cryptocurrencies. Even earlier in my career, I worked on hedge fund accounts, and private banking corporate trust accounts. I am now looking to pivot into the realm of data science to make the world a better place one small step at a time.
 
-I'm targeting to improve on SQL, learn XGBoost and Solidity. These are my targets for the next 3-6 months.
+I'm targeting to finish my current core curriculum at 42 Singapore doing Computer Science to add to my business expertise.
+
 In the mean time, take a look at my recent projects...
 
 <!-- Add link to the sections -->
@@ -100,7 +101,7 @@ Next, getting ready the initial features chosen for inputting into the Machine L
 
 
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_ML_performance.jpg) <br>
-Above is the Time Series SARIMAX model prediction accuracy table and charts. An average R^2 score of 0.65 for accuracy was achieved, and BCG Gamma scientists - our trainers informed that the best possible theoretical R^2 score for this type of Time Series optimization model was in the region of '0.6 something'. Each of the 3 Bus Routes are separately modeled with their final selected features after many rounds of trial and error. The final set of features are not 100% same as the initial features chosen as the model is able to calculate weightages given to each feature. <br>
+Above is the Time Series SARIMAX model prediction accuracy table and charts. An average R^2 score of 0.65 for accuracy was achieved, and BCG Gamma scientists - our trainers informed that the best possible theoretical R^2 score for this type of Time Series optimization model was in the region of '0.6 something'. Each of the 3 Bus Routes are separately modeled with their final selected features after many rounds of trial and error. The final set of features differ from the initial features chosen as the model is able to calculate weightages given to each feature to generate the best accuracy. <br>
 <br>
 With a pretty accurate SARIMAX model, predictions could now be made. The dataset given to us by Sentosa was from Jan 2021 to Mar 2021. April's first week predictions are as shown below: <br>
 ![alt text](https://github.com/jwtc123/jwtc123/blob/main/images/Sentosa_prediction.jpg) <br>
