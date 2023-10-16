@@ -12,10 +12,8 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/jwtc123/JustinWong/blob/main/980x.jpg?raw=true)
 
-(This is not me if you are wondering.
-I just happen to like this pic a lot!)
+
 
 <!-- Add your details -->
 
